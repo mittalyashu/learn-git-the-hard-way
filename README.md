@@ -1,8 +1,6 @@
 # Learn Git The Hard Way
 
-
-
-##  Version Control
+## Version Control
 
 When editing, you can Save As. . . a different file, or copy the file somewhere first before saving if you want to savour old versions. You can compress them too to save space. This is a primitive and labour-intensive form of version control. Computer games improved on this long ago, many of them providing multiple automatically timestamped save slots.
 
