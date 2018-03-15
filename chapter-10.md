@@ -21,7 +21,7 @@ Agile tells us to value working software and interactions between people. The wo
 
 ## Workflow {#workflow}
 
-So once you’ve picked a tool and installed it, the other big question is, how will your team use Git as part of your workflow? Does everything have to be on a feature branch, or is it OK to commit to`master`for hotfixes? Will your team have to maintain branches for older versions and backport high priority fixes? Do you need an intermediate branch for your next “unstable” version, as described in[Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)?
+So once you’ve picked a tool and installed it, the other big question is, how will your team use Git as part of your workflow? Does everything have to be on a feature branch, or is it OK to commit to`master`for hotfixes? Will your team have to maintain branches for older versions and backport high priority fixes? Do you need an intermediate branch for your next “unstable” version, as described in [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)?
 
 Each team will identify its own answer to these questions, as well as decisions like what backlog / ticket system will be used to manage work, and whether it will be used for all work or only for problem reporting.
 
