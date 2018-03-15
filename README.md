@@ -46,13 +46,7 @@ Now suppose both Alice and Bob have made distinct edits to the same line. Then i
 
 More complex situations can arise. Version control systems handle the simpler cases themselves, and leave the difficult cases for humans. Usually their behaviour is configurable.
 
-
-
-
-
-
-
-
+----------------
 
 This file file serves as your book's preface, a great place to describe your book's content and ideas.
 
